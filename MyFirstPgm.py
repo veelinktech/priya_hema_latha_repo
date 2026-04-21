@@ -1,5 +1,8 @@
-print("hello")
-print(10+5)
-print(10-5)
-print(10*5)
-print(10/5)
+def m1():
+  print("hello")
+  print(10+5)
+  print(10-5)
+  print(10*5)
+  print(10/5)
+
+add()
