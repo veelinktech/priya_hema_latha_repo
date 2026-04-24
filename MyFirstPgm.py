@@ -11,6 +11,8 @@ def div():
 
 def m2(fn, ln):
   print(fn +ln)
+def m3():
+  print("Python")
 
 m1()
 add(a,b)
@@ -18,3 +20,4 @@ sub(20,40)
 mul()
 div()
 m2('ram','kumar')
+m3()
