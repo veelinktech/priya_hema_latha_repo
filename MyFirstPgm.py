@@ -12,7 +12,8 @@ def div():
 def m2(fn, ln):
   print(fn +ln)
 def m3():
-  print("Python")
+  print("Python1")
+
 m1()
 add(a,b)
 sub(20,40)
