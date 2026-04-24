@@ -9,8 +9,12 @@ def mul():
 def div():
   print(10/5)
 
+def m2(fn, ln):
+  print(fn +ln)
+
 m1()
 add(a,b)
 sub(20,40)
 mul()
 div()
+m2('ram','kumar')
